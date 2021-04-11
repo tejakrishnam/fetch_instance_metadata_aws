@@ -1,4 +1,4 @@
-# fetch_instance_metadata_azure
+# fetch_instance_metadata
 Pre-requisites to execute the python file:
 1)A module called ec2-metadata
 2)Command to install it : 
