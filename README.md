@@ -6,7 +6,7 @@ Assuming your logged in to a VM (ec2 instance),
 - ec2-metadata module 
 
 * Command to install ec2-metadata(if not installed): 
-- python -m pip install ec2-metadata
+  - python -m pip install ec2-metadata
 
 # Steps to run :
 Execute the python file :
