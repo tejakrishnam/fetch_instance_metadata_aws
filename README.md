@@ -1,5 +1,6 @@
 # fetch_instance_metadata
 Assuming your logged in to a VM (ec2 instance),
+
 Pre-requisites
 - python 3.x - which comes by default in ec2 instances
 - ec2-metadata module 
